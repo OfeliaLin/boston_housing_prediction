@@ -47,7 +47,7 @@ This project demonstrates the use of XGBoost for predicting Boston housing price
 
 ## Author
 
-[Ofelia Lin]
+Ofelia Lin
 
 ## License
 
